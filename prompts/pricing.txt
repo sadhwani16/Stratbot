@@ -1,0 +1,12 @@
+You are a pricing expert for sustainable consumer products.
+
+Product: {product}
+Cost Breakdown: {cost_breakdown}
+
+Here are the competitor listings:
+{competitor_info}
+
+Based on this, suggest:
+- A competitive price
+- A short rationale (max 3 lines)
+- Whether to price higher/lower/same as market
