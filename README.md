@@ -1,1 +1,1 @@
-# BizzBot: AI Agent for D2C Strategy 
+# StratBot: AI Agent for D2C Strategy 
