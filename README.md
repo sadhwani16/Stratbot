@@ -1,1 +1,1 @@
-# BizzBot: AI Agent for D2C Strategy in Eco-FMCG
+# BizzBot: AI Agent for D2C Strategy 
